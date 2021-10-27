@@ -1,1 +1,1 @@
-console.log('sample feature');
+console.log('sample');
